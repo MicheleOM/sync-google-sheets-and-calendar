@@ -8,9 +8,13 @@ No meu trabalho, senti a necessidade de ter uma planilha para registrar informa�
 ## Funcionalidades e Benefícios
 
 - **Sincronização por Categorias:** Sincroniza eventos de categorias distintas, como "Vencimento de Ata", "Vencimento de Seguro", e "Vencimento de Extintores", de diferentes abas de planilha.
+  
 - **Automatização Completa:** Atualiza eventos existentes no Google Calendar ou cria novos eventos conforme necessário, com base nas mudanças no Google Sheets. Se existir um ID de evento na planilha, busca o evento no calendário e atualiza seus dados.Se não existir ID, cria um novo evento no calendário com os dados da planilha e salva o ID na planilha.
+
 - **Gestão de Eventos:** Gerencia a criação e atualização de eventos no Google Calendar, adicionando lembretes automáticos via e-mail e notificação.
+
 - **Configuração de Eventos:** Define título, descrição, data de início e fim, etc para cada evento.
+
 - **Cores Personalizadas:** Define uma cor específica para cada categoria de evento no Google Calendar, facilitando a visualização.
 
 
